@@ -1,0 +1,26 @@
+div{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(253, 225, 188);
+    border: 1px solid black;
+}
+
+table{
+    width: 800px;
+    height: 800px;
+    border: 5px solid black;  
+}
+
+tr, th{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+}
+
+.f{
+    display: inline-block;
+}
+
+.f:hover{
+    background-color: rgb(253, 179, 82);
+}
