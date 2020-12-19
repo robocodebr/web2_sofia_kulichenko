@@ -1,0 +1,121 @@
+*{
+    color:rgb(65, 0, 71);
+}
+
+body{
+    color: rgb(234, 235, 176);
+}
+
+/*#head{
+    color: black;
+}
+
+img{
+    width: 111px;
+    height: 111px;
+}
+
+.myTable{
+    margin-bottom: 50px;
+    padding: 5px;
+    border: 2px double rgb(39, 145, 194);
+}
+
+.myTable td{
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.myTable td, .myTable th{
+    border: 2px solid black;
+}
+
+h1.heading{
+    color: blue;
+}
+
+.myTable>tr {
+    background-color: crimson;
+}
+
+td, th{
+    background-color: crimson;
+}
+
+td:hover, th:hover{
+    background-color: rgb(160, 0, 88);
+}
+
+a:visited{
+    color: darkred;
+}
+
+a:focus{
+    font-size: 30px;
+}
+
+a:active{
+    font-size: 30px;
+    color: rgb(0, 139, 53);
+}
+
+a::after{
+    content: "12";
+}
+a::before{
+    content: "13";
+}*/
+
+.u{
+    color: rgb(211, 0, 0);
+}
+
+table{
+    border: 1px solid black; 
+}
+tr,td,th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.a{
+    background-color: cornflowerblue;
+}
+.a1{
+    height: 50px;
+    width: 30px;
+}
+.a2{
+    height: 30px;
+    width: 50px;
+}
+
+.b{
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+}
+
+#d{
+    height: 30px;
+    width: 30px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.img1:hover{
+    height: 200px;
+    width: 200px;
+}
+
+.img2:hover{
+    height: 200px;
+    width: 200px;
+}
+
+.img3:hover{
+    height: 200px;
+    width: 200px;
+}
